@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Rainbow Six Siege Settings Panel · Program documentation and download information.
-                                                                                                    
